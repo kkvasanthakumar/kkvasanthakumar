@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @kkvasanthakumar I am from India currently residing in Sweden.
+- 👀 I’m interested in Software testing and Automation
+- 🌱 I’m currently learning Devops related technologies
+- 📸 I like to shoot videos and edit them during leisure time
